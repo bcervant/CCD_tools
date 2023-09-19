@@ -3,4 +3,3 @@
 
 ---
 Useful scripts for analyzing CCD data.
-`codigo raro`
