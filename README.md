@@ -1,9 +1,5 @@
-# CCD_tools
-## Heading 2
-### Heading 3
-**holi**
+### CCD_tools
 *Author: Brenda Cervantes [bcervant@fnal.gov]*
-> blockquote
 ---
 Useful scripts for analyzing CCD data.
-`codigo`
+`codigo raro`
