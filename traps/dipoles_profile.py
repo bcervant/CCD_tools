@@ -157,4 +157,4 @@ if len(sys.argv) > 1:
 	plt.show()
 
 else:
-	print("To run do: python3 plotdata.py path/img*.fits")
+	print("To run do: python dipoles_profile.py path/img*.fits")
